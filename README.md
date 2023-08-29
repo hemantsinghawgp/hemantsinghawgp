@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hemantsinghawgp.
 - 👀 I’m interested in website designing/ graphics designing & doodling.
-- 🌱 I’m currently learning Web 3.0 basics.
+- 🌱 I’m currently learning front end developnment using react and next js framework
 - 💞️ I’m looking to collaborate on designing,doodling & much more about life.
 - 📫 Reach me out at hemantsinghawgp@gmail.com.
