@@ -1,8 +1,22 @@
-- 👋 Hi, I’m HEMANT KUMAR SINGH.
-- 👀 I’m passionate about learning new technologies and expanding my skillset. I'm particularly interested in web development and have proficiency in HTML, CSS, and JavaScript.
-- 🌱 Currently, I am focusing on mastering the MERN (MongoDB, Express.js, React.js, Node.js) stack for full-stack web development. I believe it's an exciting and versatile technology stack that enables me to build robust and scalable web applications.
-- 💼 I have regularly uploading projects to showcase my skills and demonstrate my understanding of different programming concepts.
-- 💞️ I'm open to collaboration and working on interesting projects.
-- 📫 Reach me out at hemantsinghawgp@gmail.com.
-- 
-  Let's connect and build amazing things together! 🚀
+# Hi, I'm Hemant Kumar Singh! 👋
+
+### 🚀 Software Developer | Full Stack Developer | MERN Stack Enthusiast
+
+🔹 5+ years of experience designing and developing scalable, responsive web applications  
+🔹 Proven expertise in modern web technologies: **React.js**, **Node.js**, **JavaScript**, **MongoDB**, and more  
+🔹 Experience collaborating with cross-functional teams to deliver seamless, user-friendly interfaces  
+
+#### 🌐 Explore My Portfolio:
+[hemantsinghawgp.vercel.app](https://hemantsinghawgp.vercel.app)
+
+#### 📂 Check out some of my projects:
+- **Your AI-Powered Invoice Extraction Tool** – [Xtractify](https://xtractify.vercel.app/)
+- **Your Trusted Partner for Effortless Announcements** – [AnnounceMate](https://announcemate.vercel.app/)
+  
+#### 🛠 Skills:
+- **Languages**: JavaScript (ES6+), HTML5, CSS3, PHP  
+- **Frameworks/Libraries**: React.js, Node.js, Bootstrap, Tailwind CSS  
+- **Databases**: MongoDB, MySQL  
+- **Tools**: Git, GitHub, VS Code, Docker
+
+Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or have any questions!
