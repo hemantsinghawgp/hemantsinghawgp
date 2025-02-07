@@ -1,22 +1,21 @@
-# Hi, I'm Hemant Kumar Singh! 👋
+## 👋 Hi, I'm Hemant Kumar Singh!  
 
-### 🚀 Software Developer | Full Stack Developer | MERN Stack Enthusiast
+🚀 **Full-Stack Developer** | Building **scalable & user-friendly** web apps  
 
-🔹 5+ years of experience designing and developing scalable, responsive web applications  
-🔹 Proven expertise in modern web technologies: **React.js**, **Node.js**, **JavaScript**, **MongoDB**, and more  
-🔹 Experience collaborating with cross-functional teams to deliver seamless, user-friendly interfaces  
+💡 Love turning ideas into clean, efficient solutions.  
 
-#### 🌐 Explore My Portfolio:
-[hemantsinghawgp.vercel.app](https://hemantsinghawgp.vercel.app)
+### 🔹 Tech Stack  
+- **Frontend:** React.js, Tailwind CSS, Bootstrap, HTML, CSS  
+- **Backend:** Node.js, PHP  
+- **Databases:** MongoDB, MySQL  
+- **Tools:** Git, GitHub, VS Code
 
-#### 📂 Check out some of my projects:
-- **Your AI-Powered Invoice Extraction Tool** – [Xtractify](https://xtractify.vercel.app/)
-- **Your Trusted Partner for Effortless Announcements** – [AnnounceMate](https://announcemate.vercel.app/)
-  
-#### 🛠 Skills:
-- **Languages**: JavaScript (ES6+), HTML5, CSS3, PHP  
-- **Frameworks/Libraries**: React.js, Node.js, Bootstrap, Tailwind CSS  
-- **Databases**: MongoDB, MySQL  
-- **Tools**: Git, GitHub, VS Code, Docker
+### 🌐 Portfolio  
+[hemantsinghawgp.vercel.app](https://hemantsinghawgp.vercel.app)  
 
-Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or have any questions!
+### 📂 Featured Projects  
+- **Xtractify** – AI-powered invoice extraction tool  
+- **AnnounceMate** – Effortless announcements, simplified  
+
+### 📬 Let’s Connect  
+If you're working on something exciting or just want to chat—feel free to reach out!  
